@@ -1,0 +1,16 @@
+{
+    "name": "[package-name]",
+    "description": "[description]",
+    "type": "wordpress",
+    "keywords": [],
+    "homepage": "[homepage]",
+    "license": "GPL-3.0",
+    "authors": [],
+    "support": {},
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["composer.php"]
+    }
+}
